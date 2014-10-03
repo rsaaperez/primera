@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">primera</string>
-    <string name="hello_world">Hola Mundos!</string>
+    <string name="hello_world">Hola Mundo!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
